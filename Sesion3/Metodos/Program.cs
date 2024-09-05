@@ -37,5 +37,5 @@ double result = Sumar3(5,10);
 Console.WriteLine(result);
 
 Console.WriteLine("Sumando 4 con Lambda");
-double result2 = SumaLamda(5, 3);
+double result2 = SumaLamda(5, 10);
 Console.WriteLine(result2);
