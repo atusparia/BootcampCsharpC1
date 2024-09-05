@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Codigo\\BC#\\Modulo_01\\Semana_01\\Clase_01\\BootcampCsharpC1\\Sesion3\\Fechas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F49518B3-A03D-44A4-B18C-A1B47FAC7781}|Fechas.csproj|d:\\codigo\\bc#\\modulo_01\\semana_01\\clase_01\\bootcampcsharpc1\\sesion3\\fechas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49518B3-A03D-44A4-B18C-A1B47FAC7781}|Fechas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Codigo\\BC#\\Modulo_01\\Semana_01\\Clase_01\\BootcampCsharpC1\\Sesion3\\Fechas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Codigo\\BC#\\Modulo_01\\Semana_01\\Clase_01\\BootcampCsharpC1\\Sesion3\\Fechas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T03:44:57.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
