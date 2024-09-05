@@ -7,3 +7,11 @@ int edad = 43;
 Console.WriteLine("Escribe tu nombre");
 nombre = Console.ReadLine();
 Console.WriteLine("Mi nombre es " + nombre + " mi edad es " + edad);
+
+//ESTE ES EL COMENTARIO DE PRUEBA
+/*
+ ASDFASDF
+AS
+ASDF
+*/
+
